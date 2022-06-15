@@ -1,6 +1,9 @@
 # hse22_project
+# Ссылка на колаб  и на всякий случай загружу файл с кодом, если что то будет с колабом:
+https://colab.research.google.com/drive/1pcxECo_Snl2hAraZ3Y7xxWGNygBzCeN_?usp=sharing
 
-#выбранные геномы:
+
+# Выбранные геномы:
 - Trypanosoma cruzi strain CL Brener
 - Trypanosoma melophagium
 - Trypanosoma theileri
